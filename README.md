@@ -2,7 +2,7 @@
 
  - gradle
  ```
-   compile 'cn.Lemon:guideview:0.1.6'
+   implementation 'com.github.nanyuweiyi:guideview:1.0.0'
  ```
 
  - 方法回调顺序
@@ -54,8 +54,5 @@
 <img src="demo.png" width="320" height="564"/>
 <img src="netease_demo.png" width="320" height="564"/>
 
-##License
-
-This project is licensed under the terms of the Apache License 2.0
 
 >
