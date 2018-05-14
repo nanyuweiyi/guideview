@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/exploded-aar/cn.Lemon/guideview/0.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fd128e57475af8781d2bd63a57926f4c2355c15a">
+        <dex dex="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/pre-dexed/dev/debug/cn.Lemon-guideview-0.1.6_8b44344a0c1c16362a046e0758870329d6ee5f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/pre-dexed/dev/debug/support-annotations-24.1.0_07c6376cb25b00f427beb2830d5ca03463fbbaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/pre-dexed/dev/debug/com.android.support-appcompat-v7-23.1.0_0bf7f5260dcacbc44830b49668516356b6be3511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/pre-dexed/dev/debug/internal_impl-23.1.0_ae057343b31fff2cbf061a6f24a47c8ddaf244f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/admin/Downloads/GuideView-master/demo/build/intermediates/pre-dexed/dev/debug/com.android.support-support-v4-23.1.0_4bfdfd4b12438fa0339b611317c0df749b4ead07.jar" />
+    </item>
+
+</items>
